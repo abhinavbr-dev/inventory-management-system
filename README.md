@@ -49,8 +49,6 @@ Built for the Hancod Backend Machine Test.
 total — this makes partial/split batch consumption visible and auditable
 directly in the database.
 
-> 📸 *Screenshot: `\dt` output / pgAdmin table list*
-
 ---
 
 ## Inventory Outflow Logic
